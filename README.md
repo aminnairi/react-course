@@ -1,4 +1,4 @@
-# esgi-react
+# react-course
 
 ## Pré-requis
 
