@@ -52,3 +52,9 @@ chromium index.html
 ## Exercice 1
 
 Créer deux fichiers `index.html` et `index.js` et ajouter les lignes précédentes à ces fichiers. Testez votre code dans un navigateur pour et vérifier que vous ayez bien un titre qui apparaît à l'écran.
+
+## Chapitre 2
+
+```bash
+git checkout chapitre-2
+```
